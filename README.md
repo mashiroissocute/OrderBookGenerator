@@ -1,5 +1,8 @@
 # Order Book Generator
 
+README : https://github.com/mashiroissocute/OrderBookGenerator
+
+
 ## 1. 环境配置
 pip install -r requirements.txt
 
